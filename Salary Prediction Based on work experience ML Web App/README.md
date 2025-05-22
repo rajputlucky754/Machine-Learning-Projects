@@ -22,19 +22,28 @@ This model can be used as a guide when determining salaries since it shows reaso
 Data Analysis and Visualization.
 
 Linear Regression.
+
 Polynomial Transformation.
 
 Ridge Regression.
+
 Random Forest.
 
 # Technologies/Libraries Used
 Python 3.
+
 Pandas.
+
 NumPy.
+
 Seaborn.
+
 Scikit-learn.
+
 Matplotlib.
+
 SciPy.
+
 Jupyter.
 
 
