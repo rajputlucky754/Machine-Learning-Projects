@@ -20,8 +20,10 @@ This model can be used as a guide when determining salaries since it shows reaso
 
 # Methods Used
 Data Analysis and Visualization.
+
 Linear Regression.
 Polynomial Transformation.
+
 Ridge Regression.
 Random Forest.
 
