@@ -19,21 +19,21 @@ How many years of experience.
 This model can be used as a guide when determining salaries since it shows reasonable predictions when given information on years of experience.
 
 # Methods Used
-Data Analysis and Visualization
-Linear Regression
-Polynomial Transformation
-Ridge Regression
-Random Forest
+Data Analysis and Visualization.
+Linear Regression.
+Polynomial Transformation.
+Ridge Regression.
+Random Forest.
 
 # Technologies/Libraries Used
-Python 3
-Pandas
-NumPy
-Seaborn
-Scikit-learn
-Matplotlib
-SciPy
-Jupyter
+Python 3.
+Pandas.
+NumPy.
+Seaborn.
+Scikit-learn.
+Matplotlib.
+SciPy.
+Jupyter.
 
 
 
